@@ -41,6 +41,17 @@ const articulosZapatillas = [
   },
   {
     id: 5,
+    nombre: "Zapatillas Adidas Galaxy 6",
+    marca: "Adidas",
+    categoria: "Hombre",
+    imagen:"./img/articles/Zapatillas adidas galaxy",
+    precio: 1000,
+    cantidad: 1,
+    oferta: true,
+    favorito: false,
+  },
+  {
+    id: 6,
     nombre: "Zapatillas adidas Grand Court Minnie Mouse Niños",
     marca: "Adidas",
     categoria: "Niño",
@@ -51,7 +62,7 @@ const articulosZapatillas = [
     favorito: false,
   },
   {
-    id: 6,
+    id: 7,
     nombre: "Zapatillas adidas Tensaur Sport De Niños",
     marca: "Adidas",
     categoria: "Niño",
